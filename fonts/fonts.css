@@ -1,0 +1,78 @@
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('NetflixSans'), url('Roboto.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Netflix Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('NetflixSans'), url('NetflixSans-Rg.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Netflix Sans';
+    font-style: italic;
+    font-weight: 400;
+    src: local('NetflixSans'), url('NetflixSans-It.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Netflix Sans';
+    font-style: normal;
+    font-weight: 100;
+    src: local('NetflixSans'), url('NetflixSans-Th.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Netflix Sans';
+    font-style: italic;
+    font-weight: 100;
+    src: local('NetflixSans'), url('NetflixSans-ThIt.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Netflix Sans';
+    font-style: normal;
+    font-weight: 300;
+    src: local('NetflixSans'), url('NetflixSans-Lt.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Netflix Sans';
+    font-style: italic;
+    font-weight: 300;
+    src: local('NetflixSans'), url('NetflixSans-LtIt.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Netflix Sans';
+    font-style: normal;
+    font-weight: 500;
+    src: local('NetflixSans'), url('NetflixSans-Md.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Netflix Sans';
+    font-style: italic;
+    font-weight: 500;
+    src: local('NetflixSans'), url('NetflixSans-MdIt.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Netflix Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: local('NetflixSans'), url('NetflixSans-Bd.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Netflix Sans';
+    font-style: italic;
+    font-weight: 700;
+    src: local('NetflixSans'), url('NetflixSans-BdIt.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Netflix Sans';
+    font-style: normal;
+    font-weight: 900;
+    src: local('NetflixSans'), url('NetflixSans-Blk.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Netflix Sans';
+    font-style: italic;
+    font-weight: 900;
+    src: local('NetflixSans'), url('NetflixSans-BlkIt.ttf') format('truetype');
+}
